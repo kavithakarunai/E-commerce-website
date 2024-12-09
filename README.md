@@ -1,0 +1,1 @@
+I created a responsive website using front end technologies like HTML , CSS and JAVASCRIPT .This Red store mainly focused on creating user friendly website and an overview how this shopping website works.  
